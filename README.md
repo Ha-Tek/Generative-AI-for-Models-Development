@@ -5,7 +5,7 @@ Source: [Coursera](https://www.coursera.org/learn/generative-ai-elevate-your-dat
 
 ## Objectives:
 
-In this hands-on project, you will learn how to use generative AI to create Python codes that can:
+In this hands-on project, you will use generative AI to create Python codes that can:
 
 - Use linear regression in one variable to fit the parameters to a model
 - Use linear regression in multiple variables to fit the parameters to a model
