@@ -2,7 +2,7 @@
 
 In this hands-on project, we explore how generative AI can help create Python scripts for developing and evaluating different predictive models using a given dataset.
 
-**Source:** [Coursera](https://www.coursera.org/learn/generative-ai-elevate-your-data-science-career/ungradedLti/DpfcC/hands-on-lab-generative-ai-for-models-development)
+**Source:** [Learning from Coursera](https://www.coursera.org/learn/generative-ai-elevate-your-data-science-career/ungradedLti/DpfcC/hands-on-lab-generative-ai-for-models-development)
 
 ## Objectives
 
